@@ -1,0 +1,32 @@
+body {
+    background: linear-gradient(40deg, #00284b, #1d0047) !important;
+    font-family: "Open Sans", sans-serif;
+    width: 75%;
+    height: calc(100vh - 0px);
+    background-size: cover;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(151, 151, 151);
+}
+
+.testimonial-card .card-up {
+  height: 150px;
+  overflow: hidden;
+  border-top-left-radius: .25rem;
+  border-top-right-radius: .25rem;
+}
+
+.aqua-gradient {
+  background: linear-gradient(40deg, #6f004e, #f59cfc) !important;
+}
+
+.testimonial-card .avatar {
+  width: 120px;
+  margin-top: -60px;
+  overflow: hidden;
+  border: 5px solid #000000;
+  border-radius: 50%;
+}
